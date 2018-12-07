@@ -1,13 +1,13 @@
 {
-    "id": "4200e5a9-95d5-433d-af48-24130aabb41e",
+    "id": "7ee3d56e-b778-4f0e-8323-179998e5cbc5",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_tank",
+    "name": "obj_tank_p1",
     "eventList": [
         
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
-    "parentObjectId": "00000000-0000-0000-0000-000000000000",
+    "parentObjectId": "4200e5a9-95d5-433d-af48-24130aabb41e",
     "persistent": false,
     "physicsAngularDamping": 0.1,
     "physicsDensity": 0.5,
